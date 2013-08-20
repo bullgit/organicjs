@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    max-width: 50em;
+    margin:0 auto;
+}
+chest, heart, trachea, alveoli, stomach {
+    display: block;
+}
+chest {
+    width:100%;
+    max-width: 55em;
+    padding: 1.5em;
+}
+
+heart {
+    font-size: 2.5em;
+}
+
+trachea {
+    display: inline-block;
+}
+
+alveoli {
+    display: inline;
+}
+
+stomach {
+    width: 100%;
+    padding: 1.5em;
+    background: #ccc;
+}
+
+footer > p {
+    font-size: .7em;
+    margin:1.5em 0 0 0;
+}
