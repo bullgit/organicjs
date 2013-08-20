@@ -10,3 +10,5 @@ Current Elements:
 - `heart` holds Logo/Title
 - `lung`, `trachea`, `alveoli` all together act as Nav
 - `stomach` acts as main-content area
+
+See index.html for example usage.
